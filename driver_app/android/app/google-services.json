@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015286480930",
+    "project_id": "fb-mobile-app-a329f",
+    "storage_bucket": "fb-mobile-app-a329f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015286480930:android:92a12eb4a259de46864a7b",
+        "android_client_info": {
+          "package_name": "com.fleetblox.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7ybPEFC0EDfuFNc8dfG_JnYcZkuHUGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015286480930:android:f272bb53df262bb5864a7b",
+        "android_client_info": {
+          "package_name": "com.fleetblox.employee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7ybPEFC0EDfuFNc8dfG_JnYcZkuHUGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
